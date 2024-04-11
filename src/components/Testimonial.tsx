@@ -1,4 +1,4 @@
-import React from "react";
+
 import styles from "../styles.tsx";
 import { feedback } from "../constants";
 import { FeedbackCard } from "./FeedbackCard.tsx";

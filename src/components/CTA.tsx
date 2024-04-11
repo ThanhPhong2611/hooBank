@@ -1,4 +1,4 @@
-import React from 'react'
+
 import styles from "../styles.tsx";
 import { Button } from "./Button.tsx";
 

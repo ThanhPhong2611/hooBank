@@ -1,5 +1,4 @@
 
-import React from 'react'
 import styles, { layout } from "../styles.tsx";
 import { apple, bill, google } from "../assets/index";
 

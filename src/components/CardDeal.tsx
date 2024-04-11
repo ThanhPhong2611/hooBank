@@ -1,4 +1,4 @@
-import React from "react";
+
 import styles, { layout } from "../styles.tsx";
 import { Button } from "./Button.tsx";
 import { card } from "../assets";

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import styles from "../styles.tsx";
 import { stats } from "../constants/index.tsx";
 

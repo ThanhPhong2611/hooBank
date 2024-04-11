@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { navLinks } from "../constants/index.tsx";
 import { logo, close, menu } from "../assets";
 
